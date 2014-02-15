@@ -397,7 +397,7 @@ h2,
 h3,
 .h3 {
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 h1 small,
 .h1 small,
@@ -1400,6 +1400,8 @@ th {
 .table-condensed > tbody > tr > td,
 .table-condensed > tfoot > tr > td {
   padding: 5px;
+  padding-left: 0px;
+  padding-right: 10px;
 }
 .table-bordered {
   border: 1px solid #dddddd;
