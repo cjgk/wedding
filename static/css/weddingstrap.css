@@ -14,6 +14,9 @@ body {
   margin: 0;
   background-image:url('../img/eggshell.jpg');
 }
+.page-header .img-responsive {
+    margin: 0 auto;
+}
 article,
 aside,
 details,
